@@ -3,6 +3,6 @@
 - 💼 I’m currently working on ...
 - 👨‍💻 Estudando Linux/AWS/Infraestura em Telecom
 - 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: cosmoferreirajp20@gmail.com
+
   
 
