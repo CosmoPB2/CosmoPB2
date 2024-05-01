@@ -1,4 +1,4 @@
-## Olá sou Cosmo Ferreira, cursando Tecnologo em rede de computadores 🖐️
+## Olá sou Cosmo Ferreira, Cursando Tecnologo em Rede de Computadores 🖐️
 
 - 💼 I’m currently working on ...
 - 👨‍💻 Estudando Linux/AWS/Infraestura em Telecom
